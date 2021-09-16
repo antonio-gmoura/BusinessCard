@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Repositories/dio-business-card/app/src/main/res/drawable/ic_add.xml" value="0.22552083333333334" />
+        <entry key="..\:/Repositories/dio-business-card/app/src/main/res/drawable/ic_close.xml" value="0.22552083333333334" />
+        <entry key="..\:/Repositories/dio-business-card/app/src/main/res/layout/activity_add_business_card.xml" value="0.209375" />
         <entry key="..\:/Repositories/dio-business-card/app/src/main/res/layout/activity_main.xml" value="0.209375" />
         <entry key="..\:/Repositories/dio-business-card/app/src/main/res/layout/item_business_card.xml" value="0.5" />
       </map>
